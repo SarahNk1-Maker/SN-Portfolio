@@ -38,4 +38,6 @@ For questions or feedback, please contact me via GitHub or email:
 
 # Mock- up Video
 https://watch.screencastify.com/v/m6rd7epLDRiHIIN3bF9T
-![Alt text](<Screenshot 2023-10-06 at 1.02.08 PM.png>)![Alt text](<Screenshot 2023-10-06 at 1.02.08 PM.png>)
+
+
+![Alt text](<Screenshot 2023-10-06 at 1.02.08 PM.png>)
