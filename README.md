@@ -17,7 +17,7 @@ This interesting project is about creating one's tech portfolio using HTML and C
 N/A
 
 ## Usage
-Clone the repository on your local machine and create a branch.Modify to create your own portfolio
+Clone the repository on your local machine and create a branch.Modify to create your own portfolio.
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
